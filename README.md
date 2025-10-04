@@ -46,11 +46,9 @@ Here are the technologies and tools I work with:
 
 <br/>
 
-### 📊 **My GitHub Stats**
+### 📊 **Most Used Languages**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VicoTriansyahNasril&show_icons=true&theme=dracula&hide_border=true" alt="Vico's GitHub stats" />
-  <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VicoTriansyahNasril&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
 </p>
 
