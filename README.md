@@ -50,9 +50,9 @@ Here are the technologies and tools I work with:
 ### 📊 **My GitHub Stats**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VicoTriansyahNasril&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" alt="Vico's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=VicoTriansyahNasril&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true" alt="Vico's GitHub stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VicoTriansyahNasril&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VicoTriansyahNasril&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
 </p>
 
 <br/>
@@ -61,5 +61,5 @@ Here are the technologies and tools I work with:
 
 <p align="left">
   <a href="https://www.linkedin.com/in/vico-triansyah-nasril" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <!-- GANTI DENGAN LINK MEDIA SOSIAL LAIN JIKA ADA -->
+  <a href="https://www.instagram.com/vicotriansyah_" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
 </p>
