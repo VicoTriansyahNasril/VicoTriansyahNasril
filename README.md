@@ -8,12 +8,11 @@
 
 ---
 
-I'm a **Software Engineer** with a passion for building robust and user-friendly applications. I enjoy exploring the full stack, from crafting intuitive mobile frontends with Flutter to designing scalable backend APIs with Go and Laravel.
+I'm a Software Engineer with a passion for building robust and user-friendly applications. I enjoy exploring the full stack, from crafting intuitive web and mobile frontends to designing scalable backend APIs.
 
 - 🔭 I’m currently working on enhancing my full-stack development skills.
 - 🌱 I’m currently learning more about DevOps and cloud infrastructure.
-- 📫 How to reach me: **vico.triansyah.tif22@polban.ac.id**
-- ⚡ Fun fact: I believe a great application is a blend of clean code and thoughtful user experience.
+- 📫 How to reach me: **vicotriansyahnasril@gmail.com**
 
 <br/>
 
@@ -50,7 +49,7 @@ Here are the technologies and tools I work with:
 ### 📊 **My GitHub Stats**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VicoTriansyahNasril&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true" alt="Vico's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=VicoTriansyahNasril&show_icons=true&theme=dracula&hide_border=true" alt="Vico's GitHub stats" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VicoTriansyahNasril&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
 </p>
