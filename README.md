@@ -16,6 +16,17 @@ I'm a Software Engineer with a passion for building robust and user-friendly app
 
 <br/>
 
+<!-- 🔗 Added: Portfolio Website -->
+### 🌐 **Portfolio Website**
+
+<p align="left">
+  <a href="https://web-portofolio-vico.vercel.app/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Website" />
+  </a>
+</p>
+
+<br/>
+
 ### 🛠️ **My Tech Stack**
 
 Here are the technologies and tools I work with:
@@ -59,4 +70,6 @@ Here are the technologies and tools I work with:
 <p align="left">
   <a href="https://www.linkedin.com/in/vico-triansyah-nasril" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://www.instagram.com/vicotriansyah_" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <!-- Optional: also surface portfolio link here -->
+  <a href="https://web-portofolio-vico.vercel.app/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Website-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Website"></a>
 </p>
